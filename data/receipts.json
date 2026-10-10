@@ -1,0 +1,1041 @@
+[
+  {
+    "id": "RCV-9032",
+    "supplierId": "SUP-05",
+    "supplierName": "Coastal Beverage & Foods",
+    "date": "2026-07-22",
+    "referenceNumber": "PO-98216",
+    "items": [
+      {
+        "productId": "PRD-2027",
+        "productName": "Ground Coffee 1kg",
+        "sku": "F&B0027",
+        "quantity": 81,
+        "locationId": "D-02-01-01-02"
+      },
+      {
+        "productId": "PRD-2026",
+        "productName": "Sparkling Water 24-pack",
+        "sku": "F&B0026",
+        "quantity": 204,
+        "locationId": "B-01-01-02-02"
+      },
+      {
+        "productId": "PRD-2015",
+        "productName": "Bluetooth Speaker",
+        "sku": "E&A0015",
+        "quantity": 236,
+        "locationId": "A-03-01-02-01"
+      }
+    ],
+    "status": "Cancelled",
+    "notes": ""
+  },
+  {
+    "id": "RCV-9003",
+    "supplierId": "SUP-05",
+    "supplierName": "Coastal Beverage & Foods",
+    "date": "2026-07-23",
+    "referenceNumber": "PO-95784",
+    "items": [
+      {
+        "productId": "PRD-2001",
+        "productName": "Hex Bolts M8",
+        "sku": "H&F0001",
+        "quantity": 229,
+        "locationId": "C-03-02-01-01"
+      },
+      {
+        "productId": "PRD-2028",
+        "productName": "Trail Mix Bulk Bag",
+        "sku": "F&B0028",
+        "quantity": 164,
+        "locationId": "A-02-01-01-01"
+      },
+      {
+        "productId": "PRD-2033",
+        "productName": "Tool Box Steel",
+        "sku": "T&E0033",
+        "quantity": 185,
+        "locationId": "A-02-02-01-01"
+      },
+      {
+        "productId": "PRD-2045",
+        "productName": "Mop Bucket Set",
+        "sku": "CS0045",
+        "quantity": 31,
+        "locationId": "C-01-01-02-01"
+      }
+    ],
+    "status": "Partially Received",
+    "notes": ""
+  },
+  {
+    "id": "RCV-9008",
+    "supplierId": "SUP-06",
+    "supplierName": "Ironpoint Tools & Equipment",
+    "date": "2026-07-23",
+    "referenceNumber": "PO-57325",
+    "items": [
+      {
+        "productId": "PRD-2055",
+        "productName": "Car Battery 12V",
+        "sku": "AP0055",
+        "quantity": 94,
+        "locationId": "A-02-02-01-01"
+      },
+      {
+        "productId": "PRD-2010",
+        "productName": "Kraft Paper Roll",
+        "sku": "PS0010",
+        "quantity": 39,
+        "locationId": "D-03-01-02-02"
+      },
+      {
+        "productId": "PRD-2029",
+        "productName": "Granola Bars Box",
+        "sku": "F&B0029",
+        "quantity": 273,
+        "locationId": "D-03-02-01-01"
+      }
+    ],
+    "status": "Received",
+    "notes": ""
+  },
+  {
+    "id": "RCV-9002",
+    "supplierId": "SUP-04",
+    "supplierName": "Ridgeline Home Goods",
+    "date": "2026-07-24",
+    "referenceNumber": "PO-61165",
+    "items": [
+      {
+        "productId": "PRD-2022",
+        "productName": "Office Chair Ergonomic",
+        "sku": "F0022",
+        "quantity": 21,
+        "locationId": "A-02-02-02-01"
+      },
+      {
+        "productId": "PRD-2008",
+        "productName": "Packing Tape 48mm",
+        "sku": "PS0008",
+        "quantity": 102,
+        "locationId": "D-03-02-01-01"
+      },
+      {
+        "productId": "PRD-2011",
+        "productName": "USB-C Cable 2m",
+        "sku": "E&A0011",
+        "quantity": 91,
+        "locationId": "A-01-02-01-02"
+      }
+    ],
+    "status": "Cancelled",
+    "notes": ""
+  },
+  {
+    "id": "RCV-9025",
+    "supplierId": "SUP-02",
+    "supplierName": "Cascade Paper & Packaging Co.",
+    "date": "2026-07-24",
+    "referenceNumber": "PO-88825",
+    "items": [
+      {
+        "productId": "PRD-2007",
+        "productName": "Bubble Wrap Roll",
+        "sku": "PS0007",
+        "quantity": 62,
+        "locationId": "C-02-01-01-01"
+      },
+      {
+        "productId": "PRD-2004",
+        "productName": "Anchor Bolts 10mm",
+        "sku": "H&F0004",
+        "quantity": 187,
+        "locationId": "A-02-02-02-01"
+      },
+      {
+        "productId": "PRD-2009",
+        "productName": "Stretch Film Roll",
+        "sku": "PS0009",
+        "quantity": 202,
+        "locationId": "A-03-02-02-02"
+      },
+      {
+        "productId": "PRD-2023",
+        "productName": "Bookshelf 5-Tier",
+        "sku": "F0023",
+        "quantity": 78,
+        "locationId": "A-01-01-02-02"
+      }
+    ],
+    "status": "Received",
+    "notes": ""
+  },
+  {
+    "id": "RCV-9031",
+    "supplierId": "SUP-05",
+    "supplierName": "Coastal Beverage & Foods",
+    "date": "2026-07-24",
+    "referenceNumber": "PO-23533",
+    "items": [
+      {
+        "productId": "PRD-2029",
+        "productName": "Granola Bars Box",
+        "sku": "F&B0029",
+        "quantity": 58,
+        "locationId": "A-01-02-01-02"
+      }
+    ],
+    "status": "Pending",
+    "notes": ""
+  },
+  {
+    "id": "RCV-9029",
+    "supplierId": "SUP-05",
+    "supplierName": "Coastal Beverage & Foods",
+    "date": "2026-07-25",
+    "referenceNumber": "PO-83267",
+    "items": [
+      {
+        "productId": "PRD-2019",
+        "productName": "Glass Tumbler 4-pack",
+        "sku": "H0019",
+        "quantity": 243,
+        "locationId": "D-02-01-01-02"
+      }
+    ],
+    "status": "Partially Received",
+    "notes": "Partial shipment, remainder expected next week."
+  },
+  {
+    "id": "RCV-9030",
+    "supplierId": "SUP-01",
+    "supplierName": "Northgate Industrial Supply",
+    "date": "2026-07-26",
+    "referenceNumber": "PO-65274",
+    "items": [
+      {
+        "productId": "PRD-2060",
+        "productName": "First Aid Kit",
+        "sku": "SE0060",
+        "quantity": 56,
+        "locationId": "C-01-02-02-01"
+      },
+      {
+        "productId": "PRD-2022",
+        "productName": "Office Chair Ergonomic",
+        "sku": "F0022",
+        "quantity": 27,
+        "locationId": "D-01-01-02-01"
+      }
+    ],
+    "status": "Received",
+    "notes": "Delivered on schedule."
+  },
+  {
+    "id": "RCV-9033",
+    "supplierId": "SUP-04",
+    "supplierName": "Ridgeline Home Goods",
+    "date": "2026-07-26",
+    "referenceNumber": "PO-75829",
+    "items": [
+      {
+        "productId": "PRD-2037",
+        "productName": "Ballpoint Pens Box",
+        "sku": "OS0037",
+        "quantity": 22,
+        "locationId": "A-01-01-01-02"
+      },
+      {
+        "productId": "PRD-2007",
+        "productName": "Bubble Wrap Roll",
+        "sku": "PS0007",
+        "quantity": 94,
+        "locationId": "C-01-01-02-01"
+      }
+    ],
+    "status": "Pending",
+    "notes": ""
+  },
+  {
+    "id": "RCV-9024",
+    "supplierId": "SUP-04",
+    "supplierName": "Ridgeline Home Goods",
+    "date": "2026-07-27",
+    "referenceNumber": "PO-11778",
+    "items": [
+      {
+        "productId": "PRD-2015",
+        "productName": "Bluetooth Speaker",
+        "sku": "E&A0015",
+        "quantity": 206,
+        "locationId": "D-03-01-02-02"
+      }
+    ],
+    "status": "Pending",
+    "notes": ""
+  },
+  {
+    "id": "RCV-9012",
+    "supplierId": "SUP-05",
+    "supplierName": "Coastal Beverage & Foods",
+    "date": "2026-07-28",
+    "referenceNumber": "PO-28496",
+    "items": [
+      {
+        "productId": "PRD-2042",
+        "productName": "Microfiber Cloth Pack",
+        "sku": "CS0042",
+        "quantity": 262,
+        "locationId": "A-02-01-01-01"
+      },
+      {
+        "productId": "PRD-2060",
+        "productName": "First Aid Kit",
+        "sku": "SE0060",
+        "quantity": 294,
+        "locationId": "C-01-02-02-01"
+      },
+      {
+        "productId": "PRD-2047",
+        "productName": "Pruning Shears",
+        "sku": "O&G0047",
+        "quantity": 162,
+        "locationId": "A-03-01-02-01"
+      },
+      {
+        "productId": "PRD-2029",
+        "productName": "Granola Bars Box",
+        "sku": "F&B0029",
+        "quantity": 202,
+        "locationId": "B-02-02-01-02"
+      }
+    ],
+    "status": "Received",
+    "notes": "Delivered on schedule."
+  },
+  {
+    "id": "RCV-9014",
+    "supplierId": "SUP-01",
+    "supplierName": "Northgate Industrial Supply",
+    "date": "2026-07-28",
+    "referenceNumber": "PO-44134",
+    "items": [
+      {
+        "productId": "PRD-2046",
+        "productName": "Garden Hose 50ft",
+        "sku": "O&G0046",
+        "quantity": 48,
+        "locationId": "A-02-02-02-01"
+      },
+      {
+        "productId": "PRD-2038",
+        "productName": "Binder Clips Assorted",
+        "sku": "OS0038",
+        "quantity": 38,
+        "locationId": "A-03-01-02-01"
+      }
+    ],
+    "status": "Cancelled",
+    "notes": "Partial shipment, remainder expected next week."
+  },
+  {
+    "id": "RCV-9021",
+    "supplierId": "SUP-01",
+    "supplierName": "Northgate Industrial Supply",
+    "date": "2026-07-28",
+    "referenceNumber": "PO-86552",
+    "items": [
+      {
+        "productId": "PRD-2026",
+        "productName": "Sparkling Water 24-pack",
+        "sku": "F&B0026",
+        "quantity": 174,
+        "locationId": "B-01-01-02-02"
+      },
+      {
+        "productId": "PRD-2004",
+        "productName": "Anchor Bolts 10mm",
+        "sku": "H&F0004",
+        "quantity": 285,
+        "locationId": "B-02-02-02-02"
+      },
+      {
+        "productId": "PRD-2022",
+        "productName": "Office Chair Ergonomic",
+        "sku": "F0022",
+        "quantity": 43,
+        "locationId": "A-02-01-01-01"
+      },
+      {
+        "productId": "PRD-2002",
+        "productName": "Wood Screws 50mm",
+        "sku": "H&F0002",
+        "quantity": 112,
+        "locationId": "D-03-02-01-01"
+      }
+    ],
+    "status": "Received",
+    "notes": ""
+  },
+  {
+    "id": "RCV-9023",
+    "supplierId": "SUP-01",
+    "supplierName": "Northgate Industrial Supply",
+    "date": "2026-07-31",
+    "referenceNumber": "PO-91530",
+    "items": [
+      {
+        "productId": "PRD-2041",
+        "productName": "All-Purpose Cleaner 1L",
+        "sku": "CS0041",
+        "quantity": 229,
+        "locationId": "C-01-01-02-01"
+      },
+      {
+        "productId": "PRD-2031",
+        "productName": "Cordless Drill",
+        "sku": "T&E0031",
+        "quantity": 111,
+        "locationId": "D-03-02-02-01"
+      },
+      {
+        "productId": "PRD-2005",
+        "productName": "Machine Screws Set",
+        "sku": "H&F0005",
+        "quantity": 105,
+        "locationId": "A-01-01-02-02"
+      },
+      {
+        "productId": "PRD-2025",
+        "productName": "Stackable Stool",
+        "sku": "F0025",
+        "quantity": 60,
+        "locationId": "B-03-02-02-02"
+      }
+    ],
+    "status": "Received",
+    "notes": ""
+  },
+  {
+    "id": "RCV-9005",
+    "supplierId": "SUP-05",
+    "supplierName": "Coastal Beverage & Foods",
+    "date": "2026-08-01",
+    "referenceNumber": "PO-95765",
+    "items": [
+      {
+        "productId": "PRD-2043",
+        "productName": "Trash Bags 30ct",
+        "sku": "CS0043",
+        "quantity": 107,
+        "locationId": "D-01-02-02-01"
+      },
+      {
+        "productId": "PRD-2047",
+        "productName": "Pruning Shears",
+        "sku": "O&G0047",
+        "quantity": 279,
+        "locationId": "C-02-01-01-01"
+      },
+      {
+        "productId": "PRD-2051",
+        "productName": "Wiper Blades Set",
+        "sku": "AP0051",
+        "quantity": 97,
+        "locationId": "A-01-02-02-02"
+      }
+    ],
+    "status": "Received",
+    "notes": ""
+  },
+  {
+    "id": "RCV-9010",
+    "supplierId": "SUP-01",
+    "supplierName": "Northgate Industrial Supply",
+    "date": "2026-08-03",
+    "referenceNumber": "PO-26550",
+    "items": [
+      {
+        "productId": "PRD-2056",
+        "productName": "Safety Goggles",
+        "sku": "SE0056",
+        "quantity": 282,
+        "locationId": "A-02-02-02-01"
+      },
+      {
+        "productId": "PRD-2052",
+        "productName": "Motor Oil 5L",
+        "sku": "AP0052",
+        "quantity": 290,
+        "locationId": "A-02-01-02-01"
+      },
+      {
+        "productId": "PRD-2053",
+        "productName": "Air Filter Standard",
+        "sku": "AP0053",
+        "quantity": 137,
+        "locationId": "B-01-02-01-02"
+      },
+      {
+        "productId": "PRD-2012",
+        "productName": "Wireless Mouse",
+        "sku": "E&A0012",
+        "quantity": 251,
+        "locationId": "A-02-01-02-01"
+      }
+    ],
+    "status": "Received",
+    "notes": ""
+  },
+  {
+    "id": "RCV-9007",
+    "supplierId": "SUP-06",
+    "supplierName": "Ironpoint Tools & Equipment",
+    "date": "2026-08-04",
+    "referenceNumber": "PO-15792",
+    "items": [
+      {
+        "productId": "PRD-2028",
+        "productName": "Trail Mix Bulk Bag",
+        "sku": "F&B0028",
+        "quantity": 116,
+        "locationId": "C-03-01-01-02"
+      }
+    ],
+    "status": "Partially Received",
+    "notes": "Delivered on schedule."
+  },
+  {
+    "id": "RCV-9020",
+    "supplierId": "SUP-02",
+    "supplierName": "Cascade Paper & Packaging Co.",
+    "date": "2026-08-04",
+    "referenceNumber": "PO-83898",
+    "items": [
+      {
+        "productId": "PRD-2011",
+        "productName": "USB-C Cable 2m",
+        "sku": "E&A0011",
+        "quantity": 128,
+        "locationId": "B-03-02-01-01"
+      },
+      {
+        "productId": "PRD-2054",
+        "productName": "Brake Pad Set",
+        "sku": "AP0054",
+        "quantity": 224,
+        "locationId": "C-03-02-01-01"
+      },
+      {
+        "productId": "PRD-2012",
+        "productName": "Wireless Mouse",
+        "sku": "E&A0012",
+        "quantity": 248,
+        "locationId": "C-01-02-02-01"
+      },
+      {
+        "productId": "PRD-2046",
+        "productName": "Garden Hose 50ft",
+        "sku": "O&G0046",
+        "quantity": 263,
+        "locationId": "D-03-02-01-01"
+      }
+    ],
+    "status": "Partially Received",
+    "notes": ""
+  },
+  {
+    "id": "RCV-9034",
+    "supplierId": "SUP-04",
+    "supplierName": "Ridgeline Home Goods",
+    "date": "2026-08-04",
+    "referenceNumber": "PO-55984",
+    "items": [
+      {
+        "productId": "PRD-2007",
+        "productName": "Bubble Wrap Roll",
+        "sku": "PS0007",
+        "quantity": 215,
+        "locationId": "C-03-02-01-01"
+      }
+    ],
+    "status": "Cancelled",
+    "notes": ""
+  },
+  {
+    "id": "RCV-9011",
+    "supplierId": "SUP-06",
+    "supplierName": "Ironpoint Tools & Equipment",
+    "date": "2026-08-09",
+    "referenceNumber": "PO-12453",
+    "items": [
+      {
+        "productId": "PRD-2050",
+        "productName": "Solar Path Lights 4-pack",
+        "sku": "O&G0050",
+        "quantity": 149,
+        "locationId": "A-01-02-01-02"
+      },
+      {
+        "productId": "PRD-2047",
+        "productName": "Pruning Shears",
+        "sku": "O&G0047",
+        "quantity": 125,
+        "locationId": "C-01-02-01-01"
+      },
+      {
+        "productId": "PRD-2058",
+        "productName": "Hard Hat",
+        "sku": "SE0058",
+        "quantity": 226,
+        "locationId": "C-01-02-02-01"
+      }
+    ],
+    "status": "Received",
+    "notes": ""
+  },
+  {
+    "id": "RCV-9027",
+    "supplierId": "SUP-01",
+    "supplierName": "Northgate Industrial Supply",
+    "date": "2026-08-09",
+    "referenceNumber": "PO-31411",
+    "items": [
+      {
+        "productId": "PRD-2055",
+        "productName": "Car Battery 12V",
+        "sku": "AP0055",
+        "quantity": 285,
+        "locationId": "A-01-01-01-02"
+      },
+      {
+        "productId": "PRD-2030",
+        "productName": "Bottled Juice Case",
+        "sku": "F&B0030",
+        "quantity": 197,
+        "locationId": "A-01-02-01-02"
+      }
+    ],
+    "status": "Received",
+    "notes": "Delivered on schedule."
+  },
+  {
+    "id": "RCV-9018",
+    "supplierId": "SUP-03",
+    "supplierName": "Vantage Electronics Distribution",
+    "date": "2026-08-10",
+    "referenceNumber": "PO-44260",
+    "items": [
+      {
+        "productId": "PRD-2018",
+        "productName": "Storage Container Set",
+        "sku": "H0018",
+        "quantity": 220,
+        "locationId": "B-02-02-01-02"
+      },
+      {
+        "productId": "PRD-2044",
+        "productName": "Disinfectant Wipes Tub",
+        "sku": "CS0044",
+        "quantity": 103,
+        "locationId": "D-01-02-02-01"
+      }
+    ],
+    "status": "Cancelled",
+    "notes": "Partial shipment, remainder expected next week."
+  },
+  {
+    "id": "RCV-9016",
+    "supplierId": "SUP-03",
+    "supplierName": "Vantage Electronics Distribution",
+    "date": "2026-08-11",
+    "referenceNumber": "PO-28714",
+    "items": [
+      {
+        "productId": "PRD-2020",
+        "productName": "Kitchen Towel Bundle",
+        "sku": "H0020",
+        "quantity": 113,
+        "locationId": "D-03-02-02-01"
+      },
+      {
+        "productId": "PRD-2021",
+        "productName": "Folding Table 6ft",
+        "sku": "F0021",
+        "quantity": 145,
+        "locationId": "C-03-01-02-02"
+      },
+      {
+        "productId": "PRD-2053",
+        "productName": "Air Filter Standard",
+        "sku": "AP0053",
+        "quantity": 230,
+        "locationId": "B-03-02-02-02"
+      },
+      {
+        "productId": "PRD-2024",
+        "productName": "Storage Cabinet Steel",
+        "sku": "F0024",
+        "quantity": 289,
+        "locationId": "C-01-01-02-01"
+      }
+    ],
+    "status": "Received",
+    "notes": "Partial shipment, remainder expected next week."
+  },
+  {
+    "id": "RCV-9022",
+    "supplierId": "SUP-06",
+    "supplierName": "Ironpoint Tools & Equipment",
+    "date": "2026-08-13",
+    "referenceNumber": "PO-41443",
+    "items": [
+      {
+        "productId": "PRD-2034",
+        "productName": "Measuring Tape 8m",
+        "sku": "T&E0034",
+        "quantity": 234,
+        "locationId": "B-01-01-02-02"
+      },
+      {
+        "productId": "PRD-2043",
+        "productName": "Trash Bags 30ct",
+        "sku": "CS0043",
+        "quantity": 131,
+        "locationId": "C-01-01-02-01"
+      },
+      {
+        "productId": "PRD-2040",
+        "productName": "Stapler Heavy Duty",
+        "sku": "OS0040",
+        "quantity": 235,
+        "locationId": "A-01-01-02-02"
+      }
+    ],
+    "status": "Cancelled",
+    "notes": ""
+  },
+  {
+    "id": "RCV-9017",
+    "supplierId": "SUP-06",
+    "supplierName": "Ironpoint Tools & Equipment",
+    "date": "2026-08-14",
+    "referenceNumber": "PO-12302",
+    "items": [
+      {
+        "productId": "PRD-2002",
+        "productName": "Wood Screws 50mm",
+        "sku": "H&F0002",
+        "quantity": 115,
+        "locationId": "A-03-02-02-02"
+      },
+      {
+        "productId": "PRD-2020",
+        "productName": "Kitchen Towel Bundle",
+        "sku": "H0020",
+        "quantity": 130,
+        "locationId": "A-01-01-02-02"
+      },
+      {
+        "productId": "PRD-2055",
+        "productName": "Car Battery 12V",
+        "sku": "AP0055",
+        "quantity": 20,
+        "locationId": "B-01-01-01-02"
+      },
+      {
+        "productId": "PRD-2037",
+        "productName": "Ballpoint Pens Box",
+        "sku": "OS0037",
+        "quantity": 80,
+        "locationId": "B-03-02-02-02"
+      }
+    ],
+    "status": "Received",
+    "notes": ""
+  },
+  {
+    "id": "RCV-9015",
+    "supplierId": "SUP-02",
+    "supplierName": "Cascade Paper & Packaging Co.",
+    "date": "2026-08-19",
+    "referenceNumber": "PO-89409",
+    "items": [
+      {
+        "productId": "PRD-2058",
+        "productName": "Hard Hat",
+        "sku": "SE0058",
+        "quantity": 101,
+        "locationId": "A-01-01-01-02"
+      },
+      {
+        "productId": "PRD-2014",
+        "productName": "Power Bank 10000mAh",
+        "sku": "E&A0014",
+        "quantity": 162,
+        "locationId": "D-03-01-01-01"
+      }
+    ],
+    "status": "Received",
+    "notes": "Delivered on schedule."
+  },
+  {
+    "id": "RCV-9001",
+    "supplierId": "SUP-03",
+    "supplierName": "Vantage Electronics Distribution",
+    "date": "2026-08-20",
+    "referenceNumber": "PO-96458",
+    "items": [
+      {
+        "productId": "PRD-2010",
+        "productName": "Kraft Paper Roll",
+        "sku": "PS0010",
+        "quantity": 219,
+        "locationId": "C-01-01-02-01"
+      },
+      {
+        "productId": "PRD-2039",
+        "productName": "Sticky Notes Pack",
+        "sku": "OS0039",
+        "quantity": 247,
+        "locationId": "C-01-02-02-01"
+      },
+      {
+        "productId": "PRD-2060",
+        "productName": "First Aid Kit",
+        "sku": "SE0060",
+        "quantity": 51,
+        "locationId": "D-03-01-01-01"
+      },
+      {
+        "productId": "PRD-2007",
+        "productName": "Bubble Wrap Roll",
+        "sku": "PS0007",
+        "quantity": 56,
+        "locationId": "C-03-02-02-01"
+      }
+    ],
+    "status": "Cancelled",
+    "notes": ""
+  },
+  {
+    "id": "RCV-9019",
+    "supplierId": "SUP-06",
+    "supplierName": "Ironpoint Tools & Equipment",
+    "date": "2026-08-23",
+    "referenceNumber": "PO-63529",
+    "items": [
+      {
+        "productId": "PRD-2002",
+        "productName": "Wood Screws 50mm",
+        "sku": "H&F0002",
+        "quantity": 76,
+        "locationId": "D-02-02-02-02"
+      }
+    ],
+    "status": "Cancelled",
+    "notes": "Delivered on schedule."
+  },
+  {
+    "id": "RCV-9009",
+    "supplierId": "SUP-03",
+    "supplierName": "Vantage Electronics Distribution",
+    "date": "2026-08-26",
+    "referenceNumber": "PO-73514",
+    "items": [
+      {
+        "productId": "PRD-2060",
+        "productName": "First Aid Kit",
+        "sku": "SE0060",
+        "quantity": 208,
+        "locationId": "B-02-02-02-02"
+      },
+      {
+        "productId": "PRD-2020",
+        "productName": "Kitchen Towel Bundle",
+        "sku": "H0020",
+        "quantity": 213,
+        "locationId": "D-02-02-01-01"
+      },
+      {
+        "productId": "PRD-2010",
+        "productName": "Kraft Paper Roll",
+        "sku": "PS0010",
+        "quantity": 252,
+        "locationId": "C-03-01-01-02"
+      },
+      {
+        "productId": "PRD-2043",
+        "productName": "Trash Bags 30ct",
+        "sku": "CS0043",
+        "quantity": 49,
+        "locationId": "B-02-02-02-02"
+      }
+    ],
+    "status": "Received",
+    "notes": "Partial shipment, remainder expected next week."
+  },
+  {
+    "id": "RCV-9006",
+    "supplierId": "SUP-03",
+    "supplierName": "Vantage Electronics Distribution",
+    "date": "2026-09-01",
+    "referenceNumber": "PO-81383",
+    "items": [
+      {
+        "productId": "PRD-2030",
+        "productName": "Bottled Juice Case",
+        "sku": "F&B0030",
+        "quantity": 140,
+        "locationId": "D-02-02-02-02"
+      },
+      {
+        "productId": "PRD-2036",
+        "productName": "Copy Paper Ream",
+        "sku": "OS0036",
+        "quantity": 77,
+        "locationId": "B-02-02-02-02"
+      }
+    ],
+    "status": "Received",
+    "notes": ""
+  },
+  {
+    "id": "RCV-9026",
+    "supplierId": "SUP-02",
+    "supplierName": "Cascade Paper & Packaging Co.",
+    "date": "2026-09-02",
+    "referenceNumber": "PO-87380",
+    "items": [
+      {
+        "productId": "PRD-2010",
+        "productName": "Kraft Paper Roll",
+        "sku": "PS0010",
+        "quantity": 202,
+        "locationId": "D-01-01-01-01"
+      },
+      {
+        "productId": "PRD-2048",
+        "productName": "Potting Soil Bag 20kg",
+        "sku": "O&G0048",
+        "quantity": 275,
+        "locationId": "A-03-02-01-01"
+      },
+      {
+        "productId": "PRD-2056",
+        "productName": "Safety Goggles",
+        "sku": "SE0056",
+        "quantity": 121,
+        "locationId": "C-01-02-02-01"
+      },
+      {
+        "productId": "PRD-2034",
+        "productName": "Measuring Tape 8m",
+        "sku": "T&E0034",
+        "quantity": 283,
+        "locationId": "D-01-02-02-01"
+      }
+    ],
+    "status": "Cancelled",
+    "notes": ""
+  },
+  {
+    "id": "RCV-9004",
+    "supplierId": "SUP-05",
+    "supplierName": "Coastal Beverage & Foods",
+    "date": "2026-09-04",
+    "referenceNumber": "PO-70896",
+    "items": [
+      {
+        "productId": "PRD-2009",
+        "productName": "Stretch Film Roll",
+        "sku": "PS0009",
+        "quantity": 208,
+        "locationId": "C-01-02-02-01"
+      },
+      {
+        "productId": "PRD-2041",
+        "productName": "All-Purpose Cleaner 1L",
+        "sku": "CS0041",
+        "quantity": 114,
+        "locationId": "A-01-01-01-02"
+      },
+      {
+        "productId": "PRD-2007",
+        "productName": "Bubble Wrap Roll",
+        "sku": "PS0007",
+        "quantity": 67,
+        "locationId": "B-01-01-02-02"
+      },
+      {
+        "productId": "PRD-2032",
+        "productName": "Adjustable Wrench Set",
+        "sku": "T&E0032",
+        "quantity": 144,
+        "locationId": "C-03-02-01-01"
+      }
+    ],
+    "status": "Pending",
+    "notes": ""
+  },
+  {
+    "id": "RCV-9013",
+    "supplierId": "SUP-03",
+    "supplierName": "Vantage Electronics Distribution",
+    "date": "2026-09-04",
+    "referenceNumber": "PO-91265",
+    "items": [
+      {
+        "productId": "PRD-2058",
+        "productName": "Hard Hat",
+        "sku": "SE0058",
+        "quantity": 76,
+        "locationId": "A-01-01-01-02"
+      },
+      {
+        "productId": "PRD-2053",
+        "productName": "Air Filter Standard",
+        "sku": "AP0053",
+        "quantity": 239,
+        "locationId": "A-01-02-01-02"
+      }
+    ],
+    "status": "Partially Received",
+    "notes": ""
+  },
+  {
+    "id": "RCV-9028",
+    "supplierId": "SUP-04",
+    "supplierName": "Ridgeline Home Goods",
+    "date": "2026-09-05",
+    "referenceNumber": "PO-89783",
+    "items": [
+      {
+        "productId": "PRD-2020",
+        "productName": "Kitchen Towel Bundle",
+        "sku": "H0020",
+        "quantity": 103,
+        "locationId": "B-02-01-01-02"
+      },
+      {
+        "productId": "PRD-2047",
+        "productName": "Pruning Shears",
+        "sku": "O&G0047",
+        "quantity": 146,
+        "locationId": "A-03-01-01-01"
+      },
+      {
+        "productId": "PRD-2004",
+        "productName": "Anchor Bolts 10mm",
+        "sku": "H&F0004",
+        "quantity": 70,
+        "locationId": "D-01-02-02-01"
+      }
+    ],
+    "status": "Partially Received",
+    "notes": "Partial shipment, remainder expected next week."
+  }
+]

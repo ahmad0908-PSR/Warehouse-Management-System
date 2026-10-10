@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Node (only relevant if you ever add tooling later)
+node_modules/
+npm-debug.log*
+
+# Local backups exported from the app
+*.backup.json
+
+README.md

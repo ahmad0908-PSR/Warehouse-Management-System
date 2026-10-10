@@ -1,0 +1,25 @@
+{
+  "warehouseName": "Meridian Distribution Center",
+  "warehouseCode": "MDC-04",
+  "address": "1180 Freight Yard Road, Building C, Lockridge, OH 44902",
+  "phone": "+1 (555) 902-4471",
+  "email": "operations@meridiandc.example",
+  "currency": "USD",
+  "currencySymbol": "$",
+  "currencyDecimals": 2,
+  "dateFormat": "MMM D, YYYY",
+  "lowStockThreshold": 25,
+  "portfolioUrl": "https://YOUR-PORTFOLIO.github.io/",
+  "logoPath": "assets/images/logo.svg",
+  "theme": {
+    "mode": "light",
+    "accent": "safety-yellow"
+  },
+  "warehouseSettings": {
+    "zones": ["A", "B", "C", "D"],
+    "totalCapacityUnits": 60000,
+    "operatingHours": "6:00 AM – 10:00 PM, Monday–Saturday"
+  },
+  "demoNotice": "This is a portfolio/demo application with fictional data.",
+  "dataVersion": 1
+}

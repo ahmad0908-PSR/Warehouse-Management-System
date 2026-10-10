@@ -1,0 +1,114 @@
+[
+  {
+    "id": "CUS-101",
+    "name": "Brightway Retail Group",
+    "contactPerson": "Jordan Brannigan",
+    "phone": "+1 (555) 413-3340",
+    "email": "jordan@brightwayretai.example",
+    "address": "642 Trade Blvd, Cincinnati, OH"
+  },
+  {
+    "id": "CUS-102",
+    "name": "Summit Hardware Chain",
+    "contactPerson": "Quinn Castellano",
+    "phone": "+1 (555) 412-8186",
+    "email": "quinn@summithardware.example",
+    "address": "294 Logistics St, Columbus, OH"
+  },
+  {
+    "id": "CUS-103",
+    "name": "Coral Bay Grocers",
+    "contactPerson": "Taylor Novak",
+    "phone": "+1 (555) 448-7345",
+    "email": "taylor@coralbaygrocer.example",
+    "address": "369 Commerce St, Toledo, OH"
+  },
+  {
+    "id": "CUS-104",
+    "name": "Union Square Electronics",
+    "contactPerson": "Taylor Yilmaz",
+    "phone": "+1 (555) 447-2994",
+    "email": "taylor@unionsquareele.example",
+    "address": "763 Distribution Way, Toledo, OH"
+  },
+  {
+    "id": "CUS-105",
+    "name": "Pinecrest Furniture Co.",
+    "contactPerson": "Quinn Castellano",
+    "phone": "+1 (555) 434-7277",
+    "email": "quinn@pinecrestfurni.example",
+    "address": "509 Commerce Way, Dayton, OH"
+  },
+  {
+    "id": "CUS-106",
+    "name": "Harbor Lane Supply",
+    "contactPerson": "Emerson Farrow",
+    "phone": "+1 (555) 425-3386",
+    "email": "emerson@harborlanesupp.example",
+    "address": "949 Market Way, Cincinnati, OH"
+  },
+  {
+    "id": "CUS-107",
+    "name": "Northfield Distributors",
+    "contactPerson": "Blair Whitfield",
+    "phone": "+1 (555) 484-6842",
+    "email": "blair@northfielddist.example",
+    "address": "812 Distribution St, Toledo, OH"
+  },
+  {
+    "id": "CUS-108",
+    "name": "Maple & Co. Retail",
+    "contactPerson": "Dakota Esparza",
+    "phone": "+1 (555) 446-4538",
+    "email": "dakota@maple&coretail.example",
+    "address": "118 Distribution Pkwy, Akron, OH"
+  },
+  {
+    "id": "CUS-109",
+    "name": "Vantage Point Stores",
+    "contactPerson": "Skyler Farrow",
+    "phone": "+1 (555) 418-5216",
+    "email": "skyler@vantagepointst.example",
+    "address": "741 Market Pkwy, Dayton, OH"
+  },
+  {
+    "id": "CUS-110",
+    "name": "Silverline Wholesale",
+    "contactPerson": "Jordan Castellano",
+    "phone": "+1 (555) 477-4339",
+    "email": "jordan@silverlinewhol.example",
+    "address": "325 Commerce Blvd, Toledo, OH"
+  },
+  {
+    "id": "CUS-111",
+    "name": "Redstone Trading Co.",
+    "contactPerson": "Avery Novak",
+    "phone": "+1 (555) 449-6661",
+    "email": "avery@redstonetradin.example",
+    "address": "931 Commerce Pkwy, Cincinnati, OH"
+  },
+  {
+    "id": "CUS-112",
+    "name": "Willow Creek Markets",
+    "contactPerson": "Avery Esparza",
+    "phone": "+1 (555) 422-4993",
+    "email": "avery@willowcreekmar.example",
+    "address": "41 Market St, Columbus, OH"
+  },
+  {
+    "id": "CUS-113",
+    "name": "Crestview Logistics",
+    "contactPerson": "Quinn Yilmaz",
+    "phone": "+1 (555) 438-1759",
+    "email": "quinn@crestviewlogis.example",
+    "address": "214 Market St, Cleveland, OH"
+  },
+  {
+    "id": "CUS-114",
+    "name": "Anchor Point Retail",
+    "contactPerson": "Emerson Esparza",
+    "phone": "+1 (555) 460-1650",
+    "email": "emerson@anchorpointret.example",
+    "address": "35 Commerce Pkwy, Dayton, OH"
+  }
+]

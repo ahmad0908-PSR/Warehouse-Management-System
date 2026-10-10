@@ -1,0 +1,894 @@
+[
+  {
+    "id": "DSP-9502",
+    "customerId": "CUS-110",
+    "customerName": "Silverline Wholesale",
+    "date": "2026-07-23",
+    "referenceNumber": "SO-30681",
+    "items": [
+      {
+        "productId": "PRD-2019",
+        "productName": "Glass Tumbler 4-pack",
+        "sku": "H0019",
+        "quantity": 86,
+        "locationId": "B-03-02-01-01"
+      },
+      {
+        "productId": "PRD-2040",
+        "productName": "Stapler Heavy Duty",
+        "sku": "OS0040",
+        "quantity": 73,
+        "locationId": "D-01-01-01-01"
+      },
+      {
+        "productId": "PRD-2002",
+        "productName": "Wood Screws 50mm",
+        "sku": "H&F0002",
+        "quantity": 60,
+        "locationId": "C-02-01-01-01"
+      },
+      {
+        "productId": "PRD-2025",
+        "productName": "Stackable Stool",
+        "sku": "F0025",
+        "quantity": 12,
+        "locationId": "B-02-01-02-01"
+      }
+    ],
+    "status": "Pending",
+    "notes": "Priority shipment."
+  },
+  {
+    "id": "DSP-9517",
+    "customerId": "CUS-114",
+    "customerName": "Anchor Point Retail",
+    "date": "2026-07-24",
+    "referenceNumber": "SO-28381",
+    "items": [
+      {
+        "productId": "PRD-2003",
+        "productName": "Steel Washers Assorted",
+        "sku": "H&F0003",
+        "quantity": 11,
+        "locationId": "A-01-02-02-02"
+      },
+      {
+        "productId": "PRD-2047",
+        "productName": "Pruning Shears",
+        "sku": "O&G0047",
+        "quantity": 70,
+        "locationId": "B-03-01-01-02"
+      },
+      {
+        "productId": "PRD-2008",
+        "productName": "Packing Tape 48mm",
+        "sku": "PS0008",
+        "quantity": 64,
+        "locationId": "A-02-02-02-01"
+      }
+    ],
+    "status": "Dispatched",
+    "notes": ""
+  },
+  {
+    "id": "DSP-9525",
+    "customerId": "CUS-109",
+    "customerName": "Vantage Point Stores",
+    "date": "2026-07-24",
+    "referenceNumber": "SO-89555",
+    "items": [
+      {
+        "productId": "PRD-2034",
+        "productName": "Measuring Tape 8m",
+        "sku": "T&E0034",
+        "quantity": 19,
+        "locationId": "C-03-02-01-01"
+      },
+      {
+        "productId": "PRD-2051",
+        "productName": "Wiper Blades Set",
+        "sku": "AP0051",
+        "quantity": 39,
+        "locationId": "B-01-02-02-02"
+      },
+      {
+        "productId": "PRD-2002",
+        "productName": "Wood Screws 50mm",
+        "sku": "H&F0002",
+        "quantity": 69,
+        "locationId": "D-01-01-01-01"
+      },
+      {
+        "productId": "PRD-2046",
+        "productName": "Garden Hose 50ft",
+        "sku": "O&G0046",
+        "quantity": 105,
+        "locationId": "D-03-01-01-01"
+      }
+    ],
+    "status": "Pending",
+    "notes": ""
+  },
+  {
+    "id": "DSP-9514",
+    "customerId": "CUS-111",
+    "customerName": "Redstone Trading Co.",
+    "date": "2026-07-26",
+    "referenceNumber": "SO-42623",
+    "items": [
+      {
+        "productId": "PRD-2002",
+        "productName": "Wood Screws 50mm",
+        "sku": "H&F0002",
+        "quantity": 74,
+        "locationId": "A-03-02-01-01"
+      }
+    ],
+    "status": "Dispatched",
+    "notes": "Priority shipment."
+  },
+  {
+    "id": "DSP-9519",
+    "customerId": "CUS-111",
+    "customerName": "Redstone Trading Co.",
+    "date": "2026-07-26",
+    "referenceNumber": "SO-26608",
+    "items": [
+      {
+        "productId": "PRD-2027",
+        "productName": "Ground Coffee 1kg",
+        "sku": "F&B0027",
+        "quantity": 60,
+        "locationId": "D-03-01-02-02"
+      }
+    ],
+    "status": "Ready",
+    "notes": "Awaiting carrier pickup."
+  },
+  {
+    "id": "DSP-9529",
+    "customerId": "CUS-104",
+    "customerName": "Union Square Electronics",
+    "date": "2026-07-28",
+    "referenceNumber": "SO-71324",
+    "items": [
+      {
+        "productId": "PRD-2004",
+        "productName": "Anchor Bolts 10mm",
+        "sku": "H&F0004",
+        "quantity": 42,
+        "locationId": "A-01-02-01-02"
+      }
+    ],
+    "status": "Dispatched",
+    "notes": "Awaiting carrier pickup."
+  },
+  {
+    "id": "DSP-9512",
+    "customerId": "CUS-110",
+    "customerName": "Silverline Wholesale",
+    "date": "2026-07-29",
+    "referenceNumber": "SO-38311",
+    "items": [
+      {
+        "productId": "PRD-2007",
+        "productName": "Bubble Wrap Roll",
+        "sku": "PS0007",
+        "quantity": 35,
+        "locationId": "B-02-02-02-02"
+      }
+    ],
+    "status": "Pending",
+    "notes": "Priority shipment."
+  },
+  {
+    "id": "DSP-9506",
+    "customerId": "CUS-105",
+    "customerName": "Pinecrest Furniture Co.",
+    "date": "2026-07-31",
+    "referenceNumber": "SO-69271",
+    "items": [
+      {
+        "productId": "PRD-2040",
+        "productName": "Stapler Heavy Duty",
+        "sku": "OS0040",
+        "quantity": 111,
+        "locationId": "C-03-01-01-02"
+      }
+    ],
+    "status": "Ready",
+    "notes": ""
+  },
+  {
+    "id": "DSP-9523",
+    "customerId": "CUS-103",
+    "customerName": "Coral Bay Grocers",
+    "date": "2026-07-31",
+    "referenceNumber": "SO-27157",
+    "items": [
+      {
+        "productId": "PRD-2046",
+        "productName": "Garden Hose 50ft",
+        "sku": "O&G0046",
+        "quantity": 32,
+        "locationId": "C-02-01-02-02"
+      }
+    ],
+    "status": "Dispatched",
+    "notes": ""
+  },
+  {
+    "id": "DSP-9507",
+    "customerId": "CUS-113",
+    "customerName": "Crestview Logistics",
+    "date": "2026-08-01",
+    "referenceNumber": "SO-84718",
+    "items": [
+      {
+        "productId": "PRD-2038",
+        "productName": "Binder Clips Assorted",
+        "sku": "OS0038",
+        "quantity": 35,
+        "locationId": "C-02-01-01-01"
+      }
+    ],
+    "status": "Picking",
+    "notes": "Priority shipment."
+  },
+  {
+    "id": "DSP-9526",
+    "customerId": "CUS-101",
+    "customerName": "Brightway Retail Group",
+    "date": "2026-08-01",
+    "referenceNumber": "SO-86370",
+    "items": [
+      {
+        "productId": "PRD-2025",
+        "productName": "Stackable Stool",
+        "sku": "F0025",
+        "quantity": 29,
+        "locationId": "D-02-02-02-02"
+      }
+    ],
+    "status": "Dispatched",
+    "notes": ""
+  },
+  {
+    "id": "DSP-9530",
+    "customerId": "CUS-113",
+    "customerName": "Crestview Logistics",
+    "date": "2026-08-03",
+    "referenceNumber": "SO-10151",
+    "items": [
+      {
+        "productId": "PRD-2034",
+        "productName": "Measuring Tape 8m",
+        "sku": "T&E0034",
+        "quantity": 46,
+        "locationId": "A-02-02-02-01"
+      },
+      {
+        "productId": "PRD-2051",
+        "productName": "Wiper Blades Set",
+        "sku": "AP0051",
+        "quantity": 57,
+        "locationId": "C-02-02-02-02"
+      },
+      {
+        "productId": "PRD-2014",
+        "productName": "Power Bank 10000mAh",
+        "sku": "E&A0014",
+        "quantity": 79,
+        "locationId": "C-02-01-01-01"
+      },
+      {
+        "productId": "PRD-2010",
+        "productName": "Kraft Paper Roll",
+        "sku": "PS0010",
+        "quantity": 87,
+        "locationId": "A-02-02-02-01"
+      }
+    ],
+    "status": "Dispatched",
+    "notes": ""
+  },
+  {
+    "id": "DSP-9518",
+    "customerId": "CUS-103",
+    "customerName": "Coral Bay Grocers",
+    "date": "2026-08-04",
+    "referenceNumber": "SO-21789",
+    "items": [
+      {
+        "productId": "PRD-2052",
+        "productName": "Motor Oil 5L",
+        "sku": "AP0052",
+        "quantity": 63,
+        "locationId": "C-02-01-01-01"
+      }
+    ],
+    "status": "Dispatched",
+    "notes": "Awaiting carrier pickup."
+  },
+  {
+    "id": "DSP-9528",
+    "customerId": "CUS-109",
+    "customerName": "Vantage Point Stores",
+    "date": "2026-08-06",
+    "referenceNumber": "SO-46515",
+    "items": [
+      {
+        "productId": "PRD-2043",
+        "productName": "Trash Bags 30ct",
+        "sku": "CS0043",
+        "quantity": 30,
+        "locationId": "D-02-01-02-01"
+      },
+      {
+        "productId": "PRD-2007",
+        "productName": "Bubble Wrap Roll",
+        "sku": "PS0007",
+        "quantity": 24,
+        "locationId": "A-02-02-02-01"
+      }
+    ],
+    "status": "Dispatched",
+    "notes": "Awaiting carrier pickup."
+  },
+  {
+    "id": "DSP-9510",
+    "customerId": "CUS-106",
+    "customerName": "Harbor Lane Supply",
+    "date": "2026-08-08",
+    "referenceNumber": "SO-39880",
+    "items": [
+      {
+        "productId": "PRD-2044",
+        "productName": "Disinfectant Wipes Tub",
+        "sku": "CS0044",
+        "quantity": 119,
+        "locationId": "C-01-02-02-01"
+      },
+      {
+        "productId": "PRD-2028",
+        "productName": "Trail Mix Bulk Bag",
+        "sku": "F&B0028",
+        "quantity": 28,
+        "locationId": "B-01-02-01-02"
+      }
+    ],
+    "status": "Pending",
+    "notes": "Priority shipment."
+  },
+  {
+    "id": "DSP-9504",
+    "customerId": "CUS-110",
+    "customerName": "Silverline Wholesale",
+    "date": "2026-08-09",
+    "referenceNumber": "SO-32470",
+    "items": [
+      {
+        "productId": "PRD-2022",
+        "productName": "Office Chair Ergonomic",
+        "sku": "F0022",
+        "quantity": 61,
+        "locationId": "C-03-01-01-02"
+      },
+      {
+        "productId": "PRD-2056",
+        "productName": "Safety Goggles",
+        "sku": "SE0056",
+        "quantity": 86,
+        "locationId": "A-02-01-02-01"
+      },
+      {
+        "productId": "PRD-2038",
+        "productName": "Binder Clips Assorted",
+        "sku": "OS0038",
+        "quantity": 62,
+        "locationId": "B-01-02-02-02"
+      }
+    ],
+    "status": "Dispatched",
+    "notes": "Awaiting carrier pickup."
+  },
+  {
+    "id": "DSP-9505",
+    "customerId": "CUS-114",
+    "customerName": "Anchor Point Retail",
+    "date": "2026-08-10",
+    "referenceNumber": "SO-30335",
+    "items": [
+      {
+        "productId": "PRD-2035",
+        "productName": "Utility Knife",
+        "sku": "T&E0035",
+        "quantity": 15,
+        "locationId": "D-01-01-01-01"
+      },
+      {
+        "productId": "PRD-2037",
+        "productName": "Ballpoint Pens Box",
+        "sku": "OS0037",
+        "quantity": 62,
+        "locationId": "C-02-02-02-02"
+      },
+      {
+        "productId": "PRD-2013",
+        "productName": "HDMI Cable 3m",
+        "sku": "E&A0013",
+        "quantity": 20,
+        "locationId": "A-03-02-01-01"
+      }
+    ],
+    "status": "Dispatched",
+    "notes": "Awaiting carrier pickup."
+  },
+  {
+    "id": "DSP-9511",
+    "customerId": "CUS-111",
+    "customerName": "Redstone Trading Co.",
+    "date": "2026-08-10",
+    "referenceNumber": "SO-47002",
+    "items": [
+      {
+        "productId": "PRD-2026",
+        "productName": "Sparkling Water 24-pack",
+        "sku": "F&B0026",
+        "quantity": 104,
+        "locationId": "B-02-01-02-01"
+      }
+    ],
+    "status": "Dispatched",
+    "notes": ""
+  },
+  {
+    "id": "DSP-9503",
+    "customerId": "CUS-105",
+    "customerName": "Pinecrest Furniture Co.",
+    "date": "2026-08-11",
+    "referenceNumber": "SO-91505",
+    "items": [
+      {
+        "productId": "PRD-2045",
+        "productName": "Mop Bucket Set",
+        "sku": "CS0045",
+        "quantity": 89,
+        "locationId": "A-02-01-02-01"
+      },
+      {
+        "productId": "PRD-2020",
+        "productName": "Kitchen Towel Bundle",
+        "sku": "H0020",
+        "quantity": 31,
+        "locationId": "D-03-01-01-01"
+      }
+    ],
+    "status": "Dispatched",
+    "notes": ""
+  },
+  {
+    "id": "DSP-9524",
+    "customerId": "CUS-114",
+    "customerName": "Anchor Point Retail",
+    "date": "2026-08-11",
+    "referenceNumber": "SO-51477",
+    "items": [
+      {
+        "productId": "PRD-2034",
+        "productName": "Measuring Tape 8m",
+        "sku": "T&E0034",
+        "quantity": 9,
+        "locationId": "D-01-01-01-01"
+      },
+      {
+        "productId": "PRD-2038",
+        "productName": "Binder Clips Assorted",
+        "sku": "OS0038",
+        "quantity": 50,
+        "locationId": "B-02-02-01-02"
+      },
+      {
+        "productId": "PRD-2009",
+        "productName": "Stretch Film Roll",
+        "sku": "PS0009",
+        "quantity": 47,
+        "locationId": "D-02-01-02-01"
+      },
+      {
+        "productId": "PRD-2015",
+        "productName": "Bluetooth Speaker",
+        "sku": "E&A0015",
+        "quantity": 40,
+        "locationId": "B-03-02-02-02"
+      }
+    ],
+    "status": "Ready",
+    "notes": ""
+  },
+  {
+    "id": "DSP-9534",
+    "customerId": "CUS-108",
+    "customerName": "Maple & Co. Retail",
+    "date": "2026-08-11",
+    "referenceNumber": "SO-71162",
+    "items": [
+      {
+        "productId": "PRD-2020",
+        "productName": "Kitchen Towel Bundle",
+        "sku": "H0020",
+        "quantity": 53,
+        "locationId": "B-02-01-01-02"
+      }
+    ],
+    "status": "Dispatched",
+    "notes": "Priority shipment."
+  },
+  {
+    "id": "DSP-9533",
+    "customerId": "CUS-104",
+    "customerName": "Union Square Electronics",
+    "date": "2026-08-14",
+    "referenceNumber": "SO-92414",
+    "items": [
+      {
+        "productId": "PRD-2058",
+        "productName": "Hard Hat",
+        "sku": "SE0058",
+        "quantity": 69,
+        "locationId": "C-02-02-02-02"
+      },
+      {
+        "productId": "PRD-2044",
+        "productName": "Disinfectant Wipes Tub",
+        "sku": "CS0044",
+        "quantity": 55,
+        "locationId": "D-02-02-01-01"
+      },
+      {
+        "productId": "PRD-2022",
+        "productName": "Office Chair Ergonomic",
+        "sku": "F0022",
+        "quantity": 12,
+        "locationId": "B-02-01-01-02"
+      },
+      {
+        "productId": "PRD-2021",
+        "productName": "Folding Table 6ft",
+        "sku": "F0021",
+        "quantity": 10,
+        "locationId": "C-01-01-02-01"
+      }
+    ],
+    "status": "Picking",
+    "notes": ""
+  },
+  {
+    "id": "DSP-9531",
+    "customerId": "CUS-104",
+    "customerName": "Union Square Electronics",
+    "date": "2026-08-16",
+    "referenceNumber": "SO-48256",
+    "items": [
+      {
+        "productId": "PRD-2009",
+        "productName": "Stretch Film Roll",
+        "sku": "PS0009",
+        "quantity": 33,
+        "locationId": "D-02-02-01-01"
+      }
+    ],
+    "status": "Ready",
+    "notes": ""
+  },
+  {
+    "id": "DSP-9521",
+    "customerId": "CUS-114",
+    "customerName": "Anchor Point Retail",
+    "date": "2026-08-20",
+    "referenceNumber": "SO-85085",
+    "items": [
+      {
+        "productId": "PRD-2030",
+        "productName": "Bottled Juice Case",
+        "sku": "F&B0030",
+        "quantity": 71,
+        "locationId": "A-03-02-01-01"
+      },
+      {
+        "productId": "PRD-2037",
+        "productName": "Ballpoint Pens Box",
+        "sku": "OS0037",
+        "quantity": 53,
+        "locationId": "B-01-01-02-02"
+      }
+    ],
+    "status": "Pending",
+    "notes": ""
+  },
+  {
+    "id": "DSP-9522",
+    "customerId": "CUS-110",
+    "customerName": "Silverline Wholesale",
+    "date": "2026-08-20",
+    "referenceNumber": "SO-47135",
+    "items": [
+      {
+        "productId": "PRD-2005",
+        "productName": "Machine Screws Set",
+        "sku": "H&F0005",
+        "quantity": 39,
+        "locationId": "A-02-02-02-01"
+      },
+      {
+        "productId": "PRD-2028",
+        "productName": "Trail Mix Bulk Bag",
+        "sku": "F&B0028",
+        "quantity": 117,
+        "locationId": "A-01-01-01-02"
+      },
+      {
+        "productId": "PRD-2050",
+        "productName": "Solar Path Lights 4-pack",
+        "sku": "O&G0050",
+        "quantity": 9,
+        "locationId": "A-02-01-02-01"
+      },
+      {
+        "productId": "PRD-2010",
+        "productName": "Kraft Paper Roll",
+        "sku": "PS0010",
+        "quantity": 24,
+        "locationId": "D-03-02-01-01"
+      }
+    ],
+    "status": "Ready",
+    "notes": "Awaiting carrier pickup."
+  },
+  {
+    "id": "DSP-9532",
+    "customerId": "CUS-110",
+    "customerName": "Silverline Wholesale",
+    "date": "2026-08-20",
+    "referenceNumber": "SO-27569",
+    "items": [
+      {
+        "productId": "PRD-2056",
+        "productName": "Safety Goggles",
+        "sku": "SE0056",
+        "quantity": 30,
+        "locationId": "C-02-02-01-01"
+      }
+    ],
+    "status": "Dispatched",
+    "notes": ""
+  },
+  {
+    "id": "DSP-9501",
+    "customerId": "CUS-110",
+    "customerName": "Silverline Wholesale",
+    "date": "2026-08-21",
+    "referenceNumber": "SO-17961",
+    "items": [
+      {
+        "productId": "PRD-2025",
+        "productName": "Stackable Stool",
+        "sku": "F0025",
+        "quantity": 36,
+        "locationId": "D-02-01-02-01"
+      },
+      {
+        "productId": "PRD-2028",
+        "productName": "Trail Mix Bulk Bag",
+        "sku": "F&B0028",
+        "quantity": 26,
+        "locationId": "A-01-02-01-02"
+      },
+      {
+        "productId": "PRD-2007",
+        "productName": "Bubble Wrap Roll",
+        "sku": "PS0007",
+        "quantity": 29,
+        "locationId": "A-02-01-01-01"
+      },
+      {
+        "productId": "PRD-2050",
+        "productName": "Solar Path Lights 4-pack",
+        "sku": "O&G0050",
+        "quantity": 45,
+        "locationId": "B-02-01-02-01"
+      }
+    ],
+    "status": "Ready",
+    "notes": ""
+  },
+  {
+    "id": "DSP-9515",
+    "customerId": "CUS-101",
+    "customerName": "Brightway Retail Group",
+    "date": "2026-08-22",
+    "referenceNumber": "SO-54369",
+    "items": [
+      {
+        "productId": "PRD-2009",
+        "productName": "Stretch Film Roll",
+        "sku": "PS0009",
+        "quantity": 15,
+        "locationId": "D-01-01-01-01"
+      },
+      {
+        "productId": "PRD-2041",
+        "productName": "All-Purpose Cleaner 1L",
+        "sku": "CS0041",
+        "quantity": 17,
+        "locationId": "D-02-02-02-02"
+      },
+      {
+        "productId": "PRD-2006",
+        "productName": "Corrugated Boxes Medium",
+        "sku": "PS0006",
+        "quantity": 39,
+        "locationId": "C-01-02-01-01"
+      },
+      {
+        "productId": "PRD-2055",
+        "productName": "Car Battery 12V",
+        "sku": "AP0055",
+        "quantity": 115,
+        "locationId": "D-02-01-02-01"
+      }
+    ],
+    "status": "Picking",
+    "notes": ""
+  },
+  {
+    "id": "DSP-9509",
+    "customerId": "CUS-111",
+    "customerName": "Redstone Trading Co.",
+    "date": "2026-08-24",
+    "referenceNumber": "SO-82140",
+    "items": [
+      {
+        "productId": "PRD-2021",
+        "productName": "Folding Table 6ft",
+        "sku": "F0021",
+        "quantity": 100,
+        "locationId": "A-02-01-02-01"
+      }
+    ],
+    "status": "Picking",
+    "notes": ""
+  },
+  {
+    "id": "DSP-9527",
+    "customerId": "CUS-107",
+    "customerName": "Northfield Distributors",
+    "date": "2026-08-29",
+    "referenceNumber": "SO-24245",
+    "items": [
+      {
+        "productId": "PRD-2027",
+        "productName": "Ground Coffee 1kg",
+        "sku": "F&B0027",
+        "quantity": 90,
+        "locationId": "C-01-02-02-01"
+      },
+      {
+        "productId": "PRD-2021",
+        "productName": "Folding Table 6ft",
+        "sku": "F0021",
+        "quantity": 80,
+        "locationId": "A-02-01-01-01"
+      }
+    ],
+    "status": "Dispatched",
+    "notes": "Priority shipment."
+  },
+  {
+    "id": "DSP-9520",
+    "customerId": "CUS-114",
+    "customerName": "Anchor Point Retail",
+    "date": "2026-08-30",
+    "referenceNumber": "SO-66300",
+    "items": [
+      {
+        "productId": "PRD-2048",
+        "productName": "Potting Soil Bag 20kg",
+        "sku": "O&G0048",
+        "quantity": 114,
+        "locationId": "D-03-02-02-01"
+      },
+      {
+        "productId": "PRD-2040",
+        "productName": "Stapler Heavy Duty",
+        "sku": "OS0040",
+        "quantity": 37,
+        "locationId": "C-01-01-02-01"
+      },
+      {
+        "productId": "PRD-2057",
+        "productName": "Hi-Vis Vest",
+        "sku": "SE0057",
+        "quantity": 64,
+        "locationId": "B-01-02-01-02"
+      },
+      {
+        "productId": "PRD-2039",
+        "productName": "Sticky Notes Pack",
+        "sku": "OS0039",
+        "quantity": 70,
+        "locationId": "B-03-01-02-02"
+      }
+    ],
+    "status": "Dispatched",
+    "notes": ""
+  },
+  {
+    "id": "DSP-9508",
+    "customerId": "CUS-114",
+    "customerName": "Anchor Point Retail",
+    "date": "2026-09-02",
+    "referenceNumber": "SO-26481",
+    "items": [
+      {
+        "productId": "PRD-2001",
+        "productName": "Hex Bolts M8",
+        "sku": "H&F0001",
+        "quantity": 61,
+        "locationId": "D-01-01-01-01"
+      },
+      {
+        "productId": "PRD-2013",
+        "productName": "HDMI Cable 3m",
+        "sku": "E&A0013",
+        "quantity": 67,
+        "locationId": "A-02-01-01-01"
+      }
+    ],
+    "status": "Dispatched",
+    "notes": "Priority shipment."
+  },
+  {
+    "id": "DSP-9516",
+    "customerId": "CUS-108",
+    "customerName": "Maple & Co. Retail",
+    "date": "2026-09-02",
+    "referenceNumber": "SO-79276",
+    "items": [
+      {
+        "productId": "PRD-2016",
+        "productName": "Ceramic Mug Set",
+        "sku": "H0016",
+        "quantity": 40,
+        "locationId": "B-03-01-02-02"
+      },
+      {
+        "productId": "PRD-2042",
+        "productName": "Microfiber Cloth Pack",
+        "sku": "CS0042",
+        "quantity": 19,
+        "locationId": "B-01-02-02-02"
+      }
+    ],
+    "status": "Pending",
+    "notes": ""
+  },
+  {
+    "id": "DSP-9513",
+    "customerId": "CUS-107",
+    "customerName": "Northfield Distributors",
+    "date": "2026-09-03",
+    "referenceNumber": "SO-18588",
+    "items": [
+      {
+        "productId": "PRD-2017",
+        "productName": "Stainless Steel Cutlery Set",
+        "sku": "H0017",
+        "quantity": 99,
+        "locationId": "C-01-01-02-01"
+      }
+    ],
+    "status": "Picking",
+    "notes": "Priority shipment."
+  }
+]

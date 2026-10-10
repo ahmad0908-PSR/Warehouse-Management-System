@@ -1,0 +1,8 @@
+[
+  { "id": "SUP-01", "name": "Northgate Industrial Supply", "contactPerson": "Rhea Donovan", "phone": "+1 (555) 233-1010", "email": "rhea@northgateindustrial.example", "address": "88 Foundry Ave, Cleveland, OH", "productsSupplied": "Hardware, Fasteners" },
+  { "id": "SUP-02", "name": "Cascade Paper & Packaging Co.", "contactPerson": "Milo Fontaine", "phone": "+1 (555) 233-1044", "email": "milo@cascadepaper.example", "address": "420 Millrace Dr, Akron, OH", "productsSupplied": "Packaging, Paper Goods" },
+  { "id": "SUP-03", "name": "Vantage Electronics Distribution", "contactPerson": "Sana Farooqi", "phone": "+1 (555) 233-1078", "email": "sana@vantageelectronics.example", "address": "12 Circuit Way, Columbus, OH", "productsSupplied": "Electronics, Accessories" },
+  { "id": "SUP-04", "name": "Ridgeline Home Goods", "contactPerson": "Tobias Kern", "phone": "+1 (555) 233-1099", "email": "tobias@ridgelinehome.example", "address": "77 Timberline Rd, Toledo, OH" , "productsSupplied": "Housewares, Furniture"},
+  { "id": "SUP-05", "name": "Coastal Beverage & Foods", "contactPerson": "Elena Marchetti", "phone": "+1 (555) 233-1123", "email": "elena@coastalbevfoods.example", "address": "5 Pier Rd, Cincinnati, OH", "productsSupplied": "Food & Beverage" },
+  { "id": "SUP-06", "name": "Ironpoint Tools & Equipment", "contactPerson": "Grant Osei", "phone": "+1 (555) 233-1167", "email": "grant@ironpointtools.example", "address": "301 Industrial Pkwy, Dayton, OH", "productsSupplied": "Tools, Equipment" }
+]

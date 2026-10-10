@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Meridian Distribution Center</title>
+<meta name="description" content="Meridian Distribution Center — inventory, receiving, dispatch, transfers and warehouse locations, running entirely in your browser." />
+<link rel="icon" href="assets/images/favicon.svg" type="image/svg+xml" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<div id="toast-container" class="toast-container" aria-live="polite"></div>
+<div id="modal-root"></div>
+
+<div class="app-shell">
+
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-brand">
+      <img src="assets/images/logo.svg" alt="" class="brand-mark" />
+      <span class="brand-name">MERIDIAN</span>
+    </div>
+    <nav class="sidebar-nav" id="sidebar-nav" aria-label="Main navigation">
+      <a href="#/dashboard" class="nav-link" data-route="dashboard"><svg class="nav-icon" viewBox="0 0 24 24"><path d="M4 13h6V4H4v9Zm0 7h6v-5H4v5Zm10 0h6V11h-6v9Zm0-16v5h6V4h-6Z"/></svg><span>Dashboard</span></a>
+      <a href="#/inventory" class="nav-link" data-route="inventory"><svg class="nav-icon" viewBox="0 0 24 24"><path d="M4 4h16v4H4V4Zm1 6h14v10H5V10Zm3 2v6h2v-6H8Zm5 0v6h2v-6h-2Z"/></svg><span>Inventory</span></a>
+      <a href="#/products" class="nav-link" data-route="products"><svg class="nav-icon" viewBox="0 0 24 24"><path d="M21 8 12 3 3 8v8l9 5 9-5V8Zm-9-2.8 6.2 3.5L12 12.2 5.8 8.7 12 5.2ZM5 10l6 3.4V20l-6-3.3V10Zm8 10v-6.6l6-3.4v6.7L13 20Z"/></svg><span>Products</span></a>
+      <a href="#/locations" class="nav-link" data-route="locations"><svg class="nav-icon" viewBox="0 0 24 24"><path d="M12 2 3 6v6c0 5 3.8 9.4 9 10 5.2-.6 9-5 9-10V6l-9-4Zm0 4.2 5 2.2v3.3c0 3.3-2.2 6.4-5 7.2-2.8-.8-5-3.9-5-7.2V8.4l5-2.2Z"/></svg><span>Locations</span></a>
+      <a href="#/receiving" class="nav-link" data-route="receiving"><svg class="nav-icon" viewBox="0 0 24 24"><path d="M12 3v11.2M7.5 10.2 12 14.7l4.5-4.5M5 17h14v4H5v-4Z"/></svg><span>Receiving</span></a>
+      <a href="#/dispatch" class="nav-link" data-route="dispatch"><svg class="nav-icon" viewBox="0 0 24 24"><path d="M12 21V9.8M16.5 13.8 12 9.3l-4.5 4.5M5 3h14v4H5V3Z"/></svg><span>Dispatch</span></a>
+      <a href="#/transfers" class="nav-link" data-route="transfers"><svg class="nav-icon" viewBox="0 0 24 24"><path d="M7 7h10l-2.5-2.5 1.4-1.4L21 8l-5.1 5-1.4-1.4L17 9H7V7Zm10 10H7l2.5 2.5-1.4 1.4L3 16l5.1-5 1.4 1.4L7 15h10v2Z"/></svg><span>Transfers</span></a>
+      <a href="#/adjustments" class="nav-link" data-route="adjustments"><svg class="nav-icon" viewBox="0 0 24 24"><path d="m19.4 13-.1-1-.1-1 1.7-1.3-1.5-2.6-2 .6a7.9 7.9 0 0 0-1.7-1L15.3 4h-2.6l-.4 2.1a8 8 0 0 0-1.7 1l-2-.7-1.5 2.6L8.8 11l-.1 1 .1 1-1.7 1.3 1.5 2.6 2-.6c.5.4 1.1.7 1.7 1l.4 2.1h2.6l.4-2.1c.6-.3 1.2-.6 1.7-1l2 .6 1.5-2.6-1.7-1.3ZM12 15.2A3.2 3.2 0 1 1 12 8.8a3.2 3.2 0 0 1 0 6.4Z"/></svg><span>Stock Adjustments</span></a>
+      <a href="#/stock-count" class="nav-link" data-route="stock-count"><svg class="nav-icon" viewBox="0 0 24 24"><path d="M9 11.2 11 13l4.5-4.5M5 5h14v14H5V5Z"/></svg><span>Stock Count</span></a>
+      <a href="#/suppliers" class="nav-link" data-route="suppliers"><svg class="nav-icon" viewBox="0 0 24 24"><path d="M3 7h13l3 4v6h-2a2.5 2.5 0 0 1-5 0H9a2.5 2.5 0 0 1-5 0H3V7Zm2 2v6h.6a2.5 2.5 0 0 1 4.8 0H15V9H5Zm11 1.2V15h2.9l-1.9-2.5-1-1.3Z"/></svg><span>Suppliers</span></a>
+      <a href="#/customers" class="nav-link" data-route="customers"><svg class="nav-icon" viewBox="0 0 24 24"><path d="M12 12a4.5 4.5 0 1 0 0-9 4.5 4.5 0 0 0 0 9Zm0 2c-4 0-8 2-8 5v2h16v-2c0-3-4-5-8-5Z"/></svg><span>Customers</span></a>
+      <a href="#/reports" class="nav-link" data-route="reports"><svg class="nav-icon" viewBox="0 0 24 24"><path d="M5 3h14v2H5V3Zm-1 4h16l-1.5 14h-13L4 7Zm4 3v7h1.5v-7H8Zm3.2 0v7h1.6v-7h-1.6Zm3.4 0v7H16v-7h-1.4Z"/></svg><span>Reports</span></a>
+      <a href="#/settings" class="nav-link" data-route="settings"><svg class="nav-icon" viewBox="0 0 24 24"><path d="M9.5 3h5l.7 3a7 7 0 0 1 2 1.2l2.9-1 2.5 4.3-2.3 2a7 7 0 0 1 0 2.3l2.3 2-2.5 4.3-2.9-1a7 7 0 0 1-2 1.2l-.7 3h-5l-.7-3a7 7 0 0 1-2-1.2l-2.9 1-2.5-4.3 2.3-2a7 7 0 0 1 0-2.3l-2.3-2 2.5-4.3 2.9 1a7 7 0 0 1 2-1.2l.7-3ZM12 15.2A3.2 3.2 0 1 0 12 8.8a3.2 3.2 0 0 0 0 6.4Z"/></svg><span>Settings</span></a>
+    </nav>
+    <button class="sidebar-collapse" id="sidebar-collapse" aria-label="Collapse sidebar">
+      <svg viewBox="0 0 24 24"><path d="M15 6 9 12l6 6"/></svg>
+      <span>Collapse</span>
+    </button>
+  </aside>
+
+  <div class="app-main">
+    <header class="topbar">
+      <button class="icon-btn mobile-nav-toggle" id="mobile-nav-toggle" aria-label="Open menu">
+        <svg viewBox="0 0 24 24"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+      </button>
+      <div class="topbar-title">
+        <h1 id="page-title">Dashboard</h1>
+        <p id="page-subtitle" class="topbar-subtitle"></p>
+      </div>
+      <div class="topbar-actions">
+        <a id="portfolio-link" class="btn btn-ghost" href="#" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" class="btn-icon"><path d="M11 5H5a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-6h-2v6H5V7h6V5Z"/><path d="M13 3v2h4.6l-9 9 1.4 1.4 9-9V11h2V3h-8Z"/></svg>
+          <span>Back to Portfolio</span>
+        </a>
+      </div>
+    </header>
+
+    <main id="app-content" class="app-content" tabindex="-1">
+      <!-- Rendered dynamically by app.js -->
+    </main>
+  </div>
+
+  <div class="sidebar-scrim" id="sidebar-scrim"></div>
+</div>
+
+<script src="assets/vendor/chart.umd.js"></script>
+<script src="js/utils.js"></script>
+<script src="js/storage.js"></script>
+<script src="js/components.js"></script>
+<script src="js/locations.js"></script>
+<script src="js/inventory.js"></script>
+<script src="js/receiving.js"></script>
+<script src="js/dispatch.js"></script>
+<script src="js/stock-movements.js"></script>
+<script src="js/suppliers.js"></script>
+<script src="js/customers.js"></script>
+<script src="js/reports.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
