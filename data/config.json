@@ -9,7 +9,7 @@
   "currencyDecimals": 2,
   "dateFormat": "MMM D, YYYY",
   "lowStockThreshold": 25,
-  "portfolioUrl": "https://YOUR-PORTFOLIO.github.io/",
+  "portfolioUrl": "https://ahmad0908-psr.github.io/",
   "logoPath": "assets/images/logo.svg",
   "theme": {
     "mode": "light",

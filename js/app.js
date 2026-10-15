@@ -344,7 +344,6 @@
               <div class="field"><label for="st-currency">Currency symbol</label><input id="st-currency" value="${escapeHtml(cfg.currencySymbol || "$")}" /></div>
               <div class="field"><label for="st-lowstock">Low-stock threshold</label><input id="st-lowstock" type="number" min="0" step="1" value="${cfg.lowStockThreshold || 25}" /></div>
             </div>
-            <div class="field"><label for="st-portfolio">Portfolio URL</label><input id="st-portfolio" value="${escapeHtml(cfg.portfolioUrl || "")}" /></div>
             <button type="button" class="btn btn-primary" id="save-settings-btn">Save Settings</button>
           </form>
         </div>
@@ -375,8 +374,7 @@
         phone: val("st-phone"),
         email: val("st-email"),
         currencySymbol: val("st-currency") || "$",
-        lowStockThreshold: parseInt(val("st-lowstock"), 10) || 25,
-        portfolioUrl: val("st-portfolio")
+        lowStockThreshold: parseInt(val("st-lowstock"), 10) || 25
       });
       Storage.saveConfig(updated);
       applyChrome();

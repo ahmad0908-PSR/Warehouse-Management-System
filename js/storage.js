@@ -66,11 +66,16 @@
     }
   }
 
+  // The portfolio link is owner-controlled: it always comes from data/config.json,
+  // never from localStorage edits or imported backups.
+  let seedPortfolioUrl = "";
+
   async function seedAll() {
     const names = Object.keys(SEED_FILES);
     const values = await Promise.all(names.map(fetchSeed));
     names.forEach((name, i) => writeJSON(KEYS[name], values[i]));
     writeJSON(KEYS.initFlag, true);
+    seedPortfolioUrl = values[names.indexOf("config")].portfolioUrl || "";
   }
 
   async function init() {
@@ -79,8 +84,9 @@
       await seedAll();
     } else {
       const seedConfig = await fetchSeed("config");
+      seedPortfolioUrl = seedConfig.portfolioUrl || "";
       const currentConfig = readJSON(KEYS.config, {});
-      writeJSON(KEYS.config, Object.assign({}, seedConfig, currentConfig));
+      writeJSON(KEYS.config, Object.assign({}, seedConfig, currentConfig, { portfolioUrl: seedPortfolioUrl }));
     }
     global.AppConfig = readJSON(KEYS.config, {});
   }
@@ -119,6 +125,7 @@
       }
     });
     if (!importedAny) throw new Error("No recognizable data found in file.");
+    writeJSON(KEYS.config, Object.assign({}, readJSON(KEYS.config, {}), { portfolioUrl: seedPortfolioUrl }));
     writeJSON(KEYS.initFlag, true);
     global.AppConfig = readJSON(KEYS.config, {});
     return true;
